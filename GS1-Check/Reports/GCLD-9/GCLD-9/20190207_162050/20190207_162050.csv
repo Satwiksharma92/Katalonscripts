@@ -1,0 +1,223 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+GCLD-9,Chrome 71.0.3578.98,,2019-02-07 16:21:02,2019-02-07 16:28:30,7m - 28.148s,FAILED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:21:02,2019-02-07 16:21:31,28.529s,PASSED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:21:03,2019-02-07 16:21:12,9.468s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:21:12,2019-02-07 16:21:13,0.670s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:21:13,2019-02-07 16:21:13,0.276s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:21:13,2019-02-07 16:21:14,1.006s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:21:14,2019-02-07 16:21:15,0.092s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:21:15,2019-02-07 16:21:24,9.655s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:21:24,2019-02-07 16:21:24,0.071s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:21:24,2019-02-07 16:21:25,1.005s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:21:25,2019-02-07 16:21:26,1.146s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:21:26,2019-02-07 16:21:31,4.465s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:21:31,2019-02-07 16:21:31,0.069s,PASSED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:21:31,2019-02-07 16:21:55,23.712s,PASSED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:21:31,2019-02-07 16:21:36,5.521s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:21:36,2019-02-07 16:21:37,0.208s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:21:37,2019-02-07 16:21:37,0.154s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:21:37,2019-02-07 16:21:38,1.002s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:21:38,2019-02-07 16:21:38,0.088s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:21:38,2019-02-07 16:21:47,8.841s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:21:47,2019-02-07 16:21:47,0.072s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:21:47,2019-02-07 16:21:48,1.003s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:21:48,2019-02-07 16:21:50,1.838s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:21:50,2019-02-07 16:21:55,4.913s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:21:55,2019-02-07 16:21:55,0.051s,PASSED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:21:55,2019-02-07 16:22:19,24.328s,PASSED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:21:55,2019-02-07 16:22:00,5.145s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:22:00,2019-02-07 16:22:00,0.227s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:22:00,2019-02-07 16:22:00,0.160s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:22:00,2019-02-07 16:22:01,1.003s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:22:01,2019-02-07 16:22:01,0.104s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:22:01,2019-02-07 16:22:10,8.782s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:22:10,2019-02-07 16:22:10,0.069s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:22:10,2019-02-07 16:22:11,1.005s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:22:11,2019-02-07 16:22:13,1.907s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:22:13,2019-02-07 16:22:19,5.862s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:22:19,2019-02-07 16:22:19,0.048s,PASSED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:22:19,2019-02-07 16:22:46,26.785s,PASSED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:22:19,2019-02-07 16:22:25,6.247s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:22:25,2019-02-07 16:22:25,0.206s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:22:25,2019-02-07 16:22:26,0.180s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:22:26,2019-02-07 16:22:27,1.004s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:22:27,2019-02-07 16:22:27,0.085s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:22:27,2019-02-07 16:22:35,8.632s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:22:35,2019-02-07 16:22:35,0.066s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:22:35,2019-02-07 16:22:36,1.005s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:22:36,2019-02-07 16:22:39,2.258s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:22:39,2019-02-07 16:22:46,7.040s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:22:46,2019-02-07 16:22:46,0.052s,PASSED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:22:46,2019-02-07 16:23:17,30.729s,PASSED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:22:46,2019-02-07 16:22:52,5.729s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:22:52,2019-02-07 16:22:52,0.232s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:22:52,2019-02-07 16:22:52,0.175s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:22:52,2019-02-07 16:22:53,1.005s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:22:53,2019-02-07 16:22:53,0.086s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:22:53,2019-02-07 16:23:03,9.787s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:23:03,2019-02-07 16:23:03,0.066s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:23:03,2019-02-07 16:23:04,1.005s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:23:04,2019-02-07 16:23:08,3.778s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:23:08,2019-02-07 16:23:16,8.801s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:23:16,2019-02-07 16:23:17,0.052s,PASSED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:23:17,2019-02-07 16:23:42,25.141s,PASSED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:23:17,2019-02-07 16:23:21,4.971s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:23:21,2019-02-07 16:23:22,0.204s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:23:22,2019-02-07 16:23:22,0.160s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:23:22,2019-02-07 16:23:23,1.002s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:23:23,2019-02-07 16:23:23,0.104s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:23:23,2019-02-07 16:23:32,8.569s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:23:32,2019-02-07 16:23:32,0.068s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:23:32,2019-02-07 16:23:33,1.004s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:23:33,2019-02-07 16:23:35,1.923s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:23:35,2019-02-07 16:23:42,7.077s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:23:42,2019-02-07 16:23:42,0.049s,PASSED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:23:42,2019-02-07 16:24:10,28.053s,PASSED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:23:42,2019-02-07 16:23:48,6.053s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:23:48,2019-02-07 16:23:49,0.891s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:23:49,2019-02-07 16:23:49,0.150s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:23:49,2019-02-07 16:23:50,1.004s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:23:50,2019-02-07 16:23:50,0.092s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:23:50,2019-02-07 16:24:00,10.107s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:24:00,2019-02-07 16:24:00,0.068s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:24:00,2019-02-07 16:24:01,1.005s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:24:01,2019-02-07 16:24:03,2.099s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:24:03,2019-02-07 16:24:10,6.524s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:24:10,2019-02-07 16:24:10,0.049s,PASSED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:24:10,2019-02-07 16:24:36,26.170s,PASSED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:24:10,2019-02-07 16:24:15,5.362s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:24:15,2019-02-07 16:24:15,0.207s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:24:15,2019-02-07 16:24:15,0.156s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:24:15,2019-02-07 16:24:16,1.001s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:24:16,2019-02-07 16:24:17,0.092s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:24:17,2019-02-07 16:24:26,9.399s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:24:26,2019-02-07 16:24:26,0.069s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:24:26,2019-02-07 16:24:27,1.002s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:24:27,2019-02-07 16:24:30,3.393s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:24:30,2019-02-07 16:24:36,5.426s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:24:36,2019-02-07 16:24:36,0.051s,PASSED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:24:36,2019-02-07 16:25:05,29.327s,PASSED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:24:36,2019-02-07 16:24:43,7.445s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:24:43,2019-02-07 16:24:44,0.224s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:24:44,2019-02-07 16:24:44,0.154s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:24:44,2019-02-07 16:24:45,1.004s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:24:45,2019-02-07 16:24:45,0.108s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:24:45,2019-02-07 16:24:55,10.024s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:24:55,2019-02-07 16:24:55,0.081s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:24:55,2019-02-07 16:24:56,1.003s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:24:56,2019-02-07 16:24:58,2.234s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:24:58,2019-02-07 16:25:05,6.988s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:25:05,2019-02-07 16:25:05,0.049s,PASSED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:25:05,2019-02-07 16:25:30,24.567s,PASSED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:25:05,2019-02-07 16:25:10,5.149s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:25:10,2019-02-07 16:25:11,0.232s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:25:11,2019-02-07 16:25:11,0.167s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:25:11,2019-02-07 16:25:12,1.005s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:25:12,2019-02-07 16:25:12,0.093s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:25:12,2019-02-07 16:25:21,8.683s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:25:21,2019-02-07 16:25:21,0.072s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:25:21,2019-02-07 16:25:22,1.003s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:25:22,2019-02-07 16:25:24,2.153s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:25:24,2019-02-07 16:25:30,5.952s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:25:30,2019-02-07 16:25:30,0.044s,PASSED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:25:30,2019-02-07 16:26:00,29.847s,PASSED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:25:30,2019-02-07 16:25:35,4.943s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:25:35,2019-02-07 16:25:35,0.250s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:25:35,2019-02-07 16:25:35,0.166s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:25:35,2019-02-07 16:25:36,1.002s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:25:36,2019-02-07 16:25:36,0.089s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:25:36,2019-02-07 16:25:50,13.775s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:25:50,2019-02-07 16:25:50,0.065s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:25:50,2019-02-07 16:25:51,1.008s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:25:51,2019-02-07 16:25:53,2.022s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:25:53,2019-02-07 16:26:00,6.464s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:26:00,2019-02-07 16:26:00,0.049s,PASSED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:26:00,2019-02-07 16:26:24,24.421s,PASSED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:26:00,2019-02-07 16:26:05,4.960s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:26:05,2019-02-07 16:26:05,0.658s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:26:05,2019-02-07 16:26:05,0.169s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:26:05,2019-02-07 16:26:06,1.002s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:26:06,2019-02-07 16:26:07,0.088s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:26:07,2019-02-07 16:26:15,8.913s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:26:15,2019-02-07 16:26:15,0.070s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:26:15,2019-02-07 16:26:16,1.004s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:26:16,2019-02-07 16:26:18,1.450s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:26:18,2019-02-07 16:26:24,6.052s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:26:24,2019-02-07 16:26:24,0.045s,PASSED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:26:24,2019-02-07 16:26:48,24.270s,PASSED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:26:24,2019-02-07 16:26:29,5.316s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:26:29,2019-02-07 16:26:30,0.253s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:26:30,2019-02-07 16:26:30,0.148s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:26:30,2019-02-07 16:26:31,1.000s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:26:31,2019-02-07 16:26:31,0.092s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:26:31,2019-02-07 16:26:40,8.830s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:26:40,2019-02-07 16:26:40,0.073s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:26:40,2019-02-07 16:26:41,1.004s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:26:41,2019-02-07 16:26:42,1.603s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:26:42,2019-02-07 16:26:48,5.880s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:26:48,2019-02-07 16:26:48,0.050s,PASSED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:26:48,2019-02-07 16:27:16,27.446s,PASSED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:26:48,2019-02-07 16:26:54,5.243s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:26:54,2019-02-07 16:26:54,0.220s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:26:54,2019-02-07 16:26:54,0.172s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:26:54,2019-02-07 16:26:55,1.004s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:26:55,2019-02-07 16:26:55,0.088s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:26:55,2019-02-07 16:27:04,8.774s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:27:04,2019-02-07 16:27:04,0.066s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:27:04,2019-02-07 16:27:05,1.002s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:27:05,2019-02-07 16:27:09,3.909s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:27:09,2019-02-07 16:27:16,6.907s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:27:16,2019-02-07 16:27:16,0.050s,PASSED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:27:16,2019-02-07 16:27:38,22.251s,FAILED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:27:16,2019-02-07 16:27:21,5.537s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:27:21,2019-02-07 16:27:22,0.240s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:27:22,2019-02-07 16:27:22,0.149s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:27:22,2019-02-07 16:27:23,1.005s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:27:23,2019-02-07 16:27:23,0.099s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:27:23,2019-02-07 16:27:31,8.203s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:27:31,2019-02-07 16:27:31,0.057s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:27:31,2019-02-07 16:27:32,1.005s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:27:32,2019-02-07 16:27:33,1.217s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:27:33,2019-02-07 16:27:37,4.194s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:27:37,2019-02-07 16:27:38,0.535s,FAILED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:27:38,2019-02-07 16:28:04,25.970s,FAILED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:27:38,2019-02-07 16:27:43,5.123s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:27:43,2019-02-07 16:27:43,0.215s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:27:43,2019-02-07 16:27:44,0.152s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:27:44,2019-02-07 16:27:45,1.004s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:27:45,2019-02-07 16:27:45,0.094s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:27:45,2019-02-07 16:27:53,8.278s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:27:53,2019-02-07 16:27:53,0.068s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:27:53,2019-02-07 16:27:54,1.004s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:27:54,2019-02-07 16:27:56,2.145s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:27:56,2019-02-07 16:28:04,7.396s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:28:04,2019-02-07 16:28:04,0.479s,FAILED
+,,,,,,
+Test Cases/GCLD-9/Verify Valid Length of GTIN number,Chrome 71.0.3578.98,,2019-02-07 16:28:04,2019-02-07 16:28:30,26.193s,FAILED
+"openBrowser(""https://cloud.test.gs1.org/gs1-portal"")",Chrome 71.0.3578.98,,2019-02-07 16:28:04,2019-02-07 16:28:09,5.034s,PASSED
+"navigateToUrl(""https://gs1-sso-customsts.azurewebsites.net/Account/LoginSelector"")",Chrome 71.0.3578.98,,2019-02-07 16:28:09,2019-02-07 16:28:09,0.231s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_E-mail_Email""), email)",Chrome 71.0.3578.98,,2019-02-07 16:28:09,2019-02-07 16:28:09,0.158s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:28:09,2019-02-07 16:28:10,1.005s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_Password""), password)",Chrome 71.0.3578.98,,2019-02-07 16:28:10,2019-02-07 16:28:11,0.095s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - GS1 STS Server/input_Password_btn btn-default""))",Chrome 71.0.3578.98,,2019-02-07 16:28:11,2019-02-07 16:28:20,9.362s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Home/a_Services""))",Chrome 71.0.3578.98,,2019-02-07 16:28:20,2019-02-07 16:28:20,0.066s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.98,,2019-02-07 16:28:20,2019-02-07 16:28:21,1.000s,PASSED
+"click(findTestObject(""Object Repository/Page_GS1 Cloud BETA - Services/a_Check""))",Chrome 71.0.3578.98,,2019-02-07 16:28:21,2019-02-07 16:28:23,1.885s,PASSED
+try,Chrome 71.0.3578.98,,2019-02-07 16:28:23,2019-02-07 16:28:30,6.865s,PASSED
+Finally,Chrome 71.0.3578.98,,2019-02-07 16:28:30,2019-02-07 16:28:30,0.478s,FAILED

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>GCLD-9</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>c62c02b8-e9c5-4f57-8a33-6e42ea1c0cd8</testSuiteGuid>
+   <testCaseLink>
+      <guid>bdf7b87b-c4d0-401c-b042-ca6e6e84add2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/GCLD-9/Verify Valid Length of GTIN number</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>49e8836a-3616-45af-afae-2a99690246c8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/GCLD-9/gcld9</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>49e8836a-3616-45af-afae-2a99690246c8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Checkgtinlength</value>
+         <variableId>c5ce0639-b268-4519-ab13-9c9e5cb0aa8a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>49e8836a-3616-45af-afae-2a99690246c8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>validation</value>
+         <variableId>3a8cef03-63e3-412f-adbe-e4dec0200273</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,28 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+registration test suite,Chrome 70.0.3538.110,,2018-12-04 19:25:46,2018-12-04 19:26:43,56.521s,PASSED
+,,,,,,
+Test Cases/automation_testing,Chrome 70.0.3538.110,,2018-12-04 19:25:46,2018-12-04 19:26:43,56.200s,PASSED
+"openBrowser("""")",Chrome 70.0.3538.110,,2018-12-04 19:25:47,2018-12-04 19:25:49,2.063s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 70.0.3538.110,,2018-12-04 19:25:49,2018-12-04 19:26:32,43.152s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_My Store/a_Sign in""))",Chrome 70.0.3538.110,,2018-12-04 19:26:32,2018-12-04 19:26:34,2.173s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input_Email address_email_crea""), email)",Chrome 70.0.3538.110,,2018-12-04 19:26:34,2018-12-04 19:26:34,0.174s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_Login - My Store/span_Create an account""))",Chrome 70.0.3538.110,,2018-12-04 19:26:34,2018-12-04 19:26:34,0.077s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_Login - My Store/input_Mr._id_gender""))",Chrome 70.0.3538.110,,2018-12-04 19:26:34,2018-12-04 19:26:36,1.603s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input__customer_firstname""), firstname)",Chrome 70.0.3538.110,,2018-12-04 19:26:36,2018-12-04 19:26:36,0.185s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input__customer_lastname""), lastname)",Chrome 70.0.3538.110,,2018-12-04 19:26:36,2018-12-04 19:26:36,0.209s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input__passwd""), password)",Chrome 70.0.3538.110,,2018-12-04 19:26:36,2018-12-04 19:26:37,0.093s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/test registration/Page_Login - My Store/select_-1234567891011121314151""), date, true)",Chrome 70.0.3538.110,,2018-12-04 19:26:37,2018-12-04 19:26:37,0.422s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/test registration/Page_Login - My Store/select_-JanuaryFebruaryMarchAp""), month, true)",Chrome 70.0.3538.110,,2018-12-04 19:26:37,2018-12-04 19:26:37,0.321s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/test registration/Page_Login - My Store/select_-2018201720162015201420""), year, true)",Chrome 70.0.3538.110,,2018-12-04 19:26:37,2018-12-04 19:26:38,0.897s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_Login - My Store/div_Sign up for our newsletter""))",Chrome 70.0.3538.110,,2018-12-04 19:26:38,2018-12-04 19:26:38,0.059s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_Login - My Store/input_Sign up for our newslett""))",Chrome 70.0.3538.110,,2018-12-04 19:26:38,2018-12-04 19:26:38,0.075s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input_Company_company""), company)",Chrome 70.0.3538.110,,2018-12-04 19:26:38,2018-12-04 19:26:38,0.132s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input__address1""), address1)",Chrome 70.0.3538.110,,2018-12-04 19:26:38,2018-12-04 19:26:39,0.136s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input_Address (Line 2)_address""), address2)",Chrome 70.0.3538.110,,2018-12-04 19:26:39,2018-12-04 19:26:39,0.140s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input__city""), city)",Chrome 70.0.3538.110,,2018-12-04 19:26:39,2018-12-04 19:26:39,0.132s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/test registration/Page_Login - My Store/select_-AlabamaAlaskaArizonaAr""), state, true)",Chrome 70.0.3538.110,,2018-12-04 19:26:39,2018-12-04 19:26:40,0.961s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input__postcode""), postalcode)",Chrome 70.0.3538.110,,2018-12-04 19:26:40,2018-12-04 19:26:40,0.083s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/textarea_Additional informatio""), additionalinfo)",Chrome 70.0.3538.110,,2018-12-04 19:26:40,2018-12-04 19:26:40,0.088s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input_Home phone_phone""), homephoneno)",Chrome 70.0.3538.110,,2018-12-04 19:26:40,2018-12-04 19:26:40,0.115s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input__phone_mobile""), mobileno)",Chrome 70.0.3538.110,,2018-12-04 19:26:40,2018-12-04 19:26:40,0.124s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_Login - My Store/span_Register""))",Chrome 70.0.3538.110,,2018-12-04 19:26:40,2018-12-04 19:26:43,2.343s,PASSED

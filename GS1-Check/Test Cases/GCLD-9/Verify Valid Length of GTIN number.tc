@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Valid Length of GTIN number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc8e31ff-e6cb-466a-a211-ca4231edb0b2</testCaseGuid>
+   <variable>
+      <defaultValue>'12345A'</defaultValue>
+      <description></description>
+      <id>c5ce0639-b268-4519-ab13-9c9e5cb0aa8a</id>
+      <masked>false</masked>
+      <name>Checkgtinlength</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3a8cef03-63e3-412f-adbe-e4dec0200273</id>
+      <masked>false</masked>
+      <name>validation</name>
+   </variable>
+</TestCaseEntity>

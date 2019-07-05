@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>testingint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70bed05d-563e-4ca1-bc17-4ded70224228</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>f01e431c-f62b-4a3b-90e9-881c4c117f6c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotaPassword'</defaultValue>
+      <description></description>
+      <id>8da8d913-5876-470d-ade3-bd03383ee069</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

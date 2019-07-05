@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+FIt-test suite,,,2019-04-17 13:35:01,2019-04-17 13:35:37,35.710s,ERROR
+,,,,,,
+Test Cases/test,,,2019-04-17 13:35:01,2019-04-17 13:35:17,16.042s,ERROR
+"Storeresponse = sendRequestAndVerify(findTestObject(""GLN Check - FID"", [""urlforcheckFID"":urlforFIDcheck, ""glnforFID"":glnforFID, ""bodyFIDcheck"":FIDcheckbody, ""method"":methodforcall]))",,,2019-04-17 13:35:02,2019-04-17 13:35:17,15.446s,PASSED
+println(Storeresponse),,,2019-04-17 13:35:17,2019-04-17 13:35:17,0.004s,PASSED
+"verifyResponseStatusCode(Storeresponse, responsecode)",,,2019-04-17 13:35:17,2019-04-17 13:35:17,0.057s,ERROR
+,,,,,,
+Test Cases/test,,,2019-04-17 13:35:17,2019-04-17 13:35:37,19.367s,ERROR
+"Storeresponse = sendRequestAndVerify(findTestObject(""GLN Check - FID"", [""urlforcheckFID"":urlforFIDcheck, ""glnforFID"":glnforFID, ""bodyFIDcheck"":FIDcheckbody, ""method"":methodforcall]))",,,2019-04-17 13:35:17,2019-04-17 13:35:37,19.281s,PASSED
+println(Storeresponse),,,2019-04-17 13:35:37,2019-04-17 13:35:37,0.001s,PASSED
+"verifyResponseStatusCode(Storeresponse, responsecode)",,,2019-04-17 13:35:37,2019-04-17 13:35:37,0.026s,ERROR

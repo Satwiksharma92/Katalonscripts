@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+test suite,Chrome 70.0.3538.110,,2018-11-30 13:23:22,2018-11-30 13:23:26,4.535s,FAILED
+,,,,,,
+Test Cases/test,Chrome 70.0.3538.110,,2018-11-30 13:23:22,2018-11-30 13:23:26,4.276s,FAILED
+"openBrowser(""https://accounts.google.com/signin"")",Chrome 70.0.3538.110,,2018-11-30 13:23:22,2018-11-30 13:23:25,2.980s,PASSED
+"navigateToUrl(""https://accounts.google.com/signin"")",Chrome 70.0.3538.110,,2018-11-30 13:23:25,2018-11-30 13:23:25,0.398s,PASSED
+"setText(findTestObject(""Page_Sign in  Google accounts/input_Use your Google Account_""), username)",Chrome 70.0.3538.110,,2018-11-30 13:23:25,2018-11-30 13:23:26,0.635s,FAILED

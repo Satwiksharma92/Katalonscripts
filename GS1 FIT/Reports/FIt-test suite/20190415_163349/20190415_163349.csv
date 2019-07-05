@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+FIt-test suite,,,2019-04-15 16:34:01,2019-04-15 16:34:15,14.618s,ERROR
+,,,,,,
+Test Cases/test,,,2019-04-15 16:34:01,2019-04-15 16:34:15,14.428s,ERROR
+"Storeresponse = sendRequest(findTestObject(""GLN Check - FID"", [""urlforcheckFID"":urlforFIDcheck, ""glnforFID"":glnforFID, ""bodyFIDcheck"":FIDcheckbody]))",,,2019-04-15 16:34:01,2019-04-15 16:34:15,14.087s,PASSED
+"verifyResponseStatusCode(Storeresponse, responsecode)",,,2019-04-15 16:34:15,2019-04-15 16:34:15,0.043s,ERROR

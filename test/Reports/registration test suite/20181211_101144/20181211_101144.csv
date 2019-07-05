@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+registration test suite,Chrome 71.0.3578.80,,2018-12-11 10:11:55,2018-12-11 10:13:27,1m - 31.292s,FAILED
+,,,,,,
+Test Cases/automation_testing,Chrome 71.0.3578.80,,2018-12-11 10:11:56,2018-12-11 10:12:38,42.481s,FAILED
+"openBrowser("""")",Chrome 71.0.3578.80,,2018-12-11 10:11:56,2018-12-11 10:11:58,2.082s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 71.0.3578.80,,2018-12-11 10:11:58,2018-12-11 10:12:04,5.719s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_My Store/a_Sign in""))",Chrome 71.0.3578.80,,2018-12-11 10:12:04,2018-12-11 10:12:05,1.597s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input_Email address_email_crea""), email)",Chrome 71.0.3578.80,,2018-12-11 10:12:05,2018-12-11 10:12:06,0.131s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_Login - My Store/span_Create an account""))",Chrome 71.0.3578.80,,2018-12-11 10:12:06,2018-12-11 10:12:06,0.091s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.80,,2018-12-11 10:12:06,2018-12-11 10:12:07,1.004s,PASSED
+getUrl(),Chrome 71.0.3578.80,,2018-12-11 10:12:07,2018-12-11 10:12:07,0.016s,PASSED
+"if (getUrl() == ""http://automationpractice.com/index.php?controller=authentication&back=my-account"")",Chrome 71.0.3578.80,,2018-12-11 10:12:07,2018-12-11 10:12:07,0.054s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input_Email address_email_crea""), email)",Chrome 71.0.3578.80,,2018-12-11 10:12:07,2018-12-11 10:12:07,0.061s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_Login - My Store/span_Create an account""))",Chrome 71.0.3578.80,,2018-12-11 10:12:07,2018-12-11 10:12:07,0.048s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_Login - My Store/input_Mr._id_gender""))",Chrome 71.0.3578.80,,2018-12-11 10:12:07,2018-12-11 10:12:38,31.258s,FAILED
+,,,,,,
+Test Cases/automation_testing,Chrome 71.0.3578.80,,2018-12-11 10:12:38,2018-12-11 10:13:27,48.486s,FAILED
+"openBrowser("""")",Chrome 71.0.3578.80,,2018-12-11 10:12:38,2018-12-11 10:12:39,1.046s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 71.0.3578.80,,2018-12-11 10:12:39,2018-12-11 10:12:52,12.609s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_My Store/a_Sign in""))",Chrome 71.0.3578.80,,2018-12-11 10:12:52,2018-12-11 10:12:54,1.886s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input_Email address_email_crea""), email)",Chrome 71.0.3578.80,,2018-12-11 10:12:54,2018-12-11 10:12:54,0.168s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_Login - My Store/span_Create an account""))",Chrome 71.0.3578.80,,2018-12-11 10:12:54,2018-12-11 10:12:54,0.093s,PASSED
+Thread.sleep(1000),Chrome 71.0.3578.80,,2018-12-11 10:12:54,2018-12-11 10:12:55,1.006s,PASSED
+getUrl(),Chrome 71.0.3578.80,,2018-12-11 10:12:55,2018-12-11 10:12:55,0.008s,PASSED
+"if (getUrl() == ""http://automationpractice.com/index.php?controller=authentication&back=my-account"")",Chrome 71.0.3578.80,,2018-12-11 10:12:55,2018-12-11 10:13:27,31.650s,PASSED

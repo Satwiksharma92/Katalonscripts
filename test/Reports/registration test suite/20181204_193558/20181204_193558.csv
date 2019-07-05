@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+registration test suite,Chrome 70.0.3538.110,,2018-12-04 19:36:10,2018-12-04 19:38:18,2m - 7.724s,FAILED
+,,,,,,
+Test Cases/automation_testing,Chrome 70.0.3538.110,,2018-12-04 19:36:10,2018-12-04 19:37:29,1m - 18.909s,FAILED
+"openBrowser("""")",Chrome 70.0.3538.110,,2018-12-04 19:36:11,2018-12-04 19:36:13,1.931s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 70.0.3538.110,,2018-12-04 19:36:13,2018-12-04 19:36:55,42.255s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_My Store/a_Sign in""))",Chrome 70.0.3538.110,,2018-12-04 19:36:55,2018-12-04 19:36:58,2.908s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input_Email address_email_crea""), email)",Chrome 70.0.3538.110,,2018-12-04 19:36:58,2018-12-04 19:36:58,0.131s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_Login - My Store/span_Register""))",Chrome 70.0.3538.110,,2018-12-04 19:36:58,2018-12-04 19:37:29,31.225s,FAILED
+,,,,,,
+Test Cases/automation_testing,Chrome 70.0.3538.110,,2018-12-04 19:37:29,2018-12-04 19:38:18,48.511s,FAILED
+"openBrowser("""")",Chrome 70.0.3538.110,,2018-12-04 19:37:29,2018-12-04 19:37:30,1.048s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 70.0.3538.110,,2018-12-04 19:37:30,2018-12-04 19:37:44,13.820s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_My Store/a_Sign in""))",Chrome 70.0.3538.110,,2018-12-04 19:37:44,2018-12-04 19:37:46,2.204s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input_Email address_email_crea""), email)",Chrome 70.0.3538.110,,2018-12-04 19:37:46,2018-12-04 19:37:46,0.157s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_Login - My Store/span_Register""))",Chrome 70.0.3538.110,,2018-12-04 19:37:46,2018-12-04 19:38:18,31.257s,FAILED

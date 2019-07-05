@@ -1,0 +1,68 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+FIt-test suite,,,2019-05-06 17:01:33,2019-05-06 17:01:34,1.214s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:33,2019-05-06 17:01:34,0.499s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.016s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.028s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.004s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.024s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.003s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.022s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.003s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.022s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.002s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.024s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.002s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.026s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.002s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.022s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.001s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.016s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.002s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.020s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.002s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.017s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.002s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.019s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.002s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.018s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.001s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.016s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.001s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.021s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.002s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.018s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.001s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.016s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.002s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.016s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.001s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.017s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.001s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.015s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.001s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.014s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.001s,ERROR
+,,,,,,
+Test Cases/test,,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.016s,ERROR
+"sendRequestAndVerify(findTestObject(""GLN Check - EOID"", [""gln"":glnparameter, ""urlforcheckeoid"":url, ""body"":body, ""methodforcall"":methodforcall]))",,,2019-05-06 17:01:34,2019-05-06 17:01:34,0.001s,ERROR

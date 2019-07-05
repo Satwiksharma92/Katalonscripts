@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+registration test suite,Chrome 70.0.3538.110,,2018-12-04 20:45:04,2018-12-04 20:45:34,29.452s,ERROR
+,,,,,,
+Test Cases/automation_testing,Chrome 70.0.3538.110,,2018-12-04 20:45:05,2018-12-04 20:45:19,14.003s,ERROR
+"openBrowser("""")",Chrome 70.0.3538.110,,2018-12-04 20:45:05,2018-12-04 20:45:07,1.931s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 70.0.3538.110,,2018-12-04 20:45:07,2018-12-04 20:45:16,9.475s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_My Store/a_Sign in""))",Chrome 70.0.3538.110,,2018-12-04 20:45:16,2018-12-04 20:45:18,1.935s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input_Email address_email_crea""), email)",Chrome 70.0.3538.110,,2018-12-04 20:45:18,2018-12-04 20:45:18,0.130s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_Login - My Store/span_Create an account""))",Chrome 70.0.3538.110,,2018-12-04 20:45:18,2018-12-04 20:45:19,0.087s,PASSED
+"verifyElementText(findTestObject(""Page_Login - My Store/li_Invalid email address.""), ""Invalid email address."")",Chrome 70.0.3538.110,,2018-12-04 20:45:19,2018-12-04 20:45:19,0.022s,ERROR
+,,,,,,
+Test Cases/automation_testing,Chrome 70.0.3538.110,,2018-12-04 20:45:19,2018-12-04 20:45:34,15.124s,ERROR
+"openBrowser("""")",Chrome 70.0.3538.110,,2018-12-04 20:45:19,2018-12-04 20:45:20,0.968s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 70.0.3538.110,,2018-12-04 20:45:20,2018-12-04 20:45:29,9.713s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_My Store/a_Sign in""))",Chrome 70.0.3538.110,,2018-12-04 20:45:29,2018-12-04 20:45:33,4.152s,PASSED
+"setText(findTestObject(""Object Repository/test registration/Page_Login - My Store/input_Email address_email_crea""), email)",Chrome 70.0.3538.110,,2018-12-04 20:45:33,2018-12-04 20:45:34,0.166s,PASSED
+"click(findTestObject(""Object Repository/test registration/Page_Login - My Store/span_Create an account""))",Chrome 70.0.3538.110,,2018-12-04 20:45:34,2018-12-04 20:45:34,0.096s,PASSED
+"verifyElementText(findTestObject(""Page_Login - My Store/li_Invalid email address.""), ""Invalid email address."")",Chrome 70.0.3538.110,,2018-12-04 20:45:34,2018-12-04 20:45:34,0.003s,ERROR
